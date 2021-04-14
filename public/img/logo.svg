@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="52" height="45" viewBox="0 0 20.6375 17.991666">
+    <g transform="translate(-0.07190851,0.75648259)">
+        <text opacity="1" x="-.82950112" y="15.177261" transform="scale(0.98404441,1.0162143)" >
+            <tspan font-style="normal" font-variant="normal" font-weight="normal" font-stretch="normal" font-size="20.2779px" font-family="Cascadia Code PL" fill="#d40000" fill-opacity="1" stroke="none" stroke-width="0.53351" stroke-linejoin="round" stroke-miterlimit="4" stroke-opacity="0">N</tspan></text>
+        <text opacity="0.992647" transform="scale(0.98404441,1.0162143)" >
+            <tspan x="8.6441244" y="15.177261" font-style="normal" font-variant="normal" font-weight="normal" font-stretch="normal" font-size="20.2779px" font-family="Cascadia Code PL" fill="#ffffff" fill-opacity="0.902857" stroke="none" stroke-width="0.53351" stroke-linejoin="round" stroke-miterlimit="4" stroke-opacity="0">W</tspan></text>
+    </g>
+</svg>
